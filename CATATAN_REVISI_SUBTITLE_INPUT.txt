@@ -1,0 +1,24 @@
+CATATAN REVISI
+
+1. Subtitle per-kata + animasi pop-up
+- Subtitle scene sekarang dibuat per kata, bukan satu kalimat panjang.
+- Posisi subtitle: tengah-bawah, dengan margin dari bawah supaya tidak terlalu mepet.
+- Ukuran subtitle dibuat kecil tetapi masih terbaca, mengikuti tinggi frame video.
+- Efek animasi menggunakan scale pop-up: muncul kecil, membesar singkat, lalu normal.
+- Jika edge-tts berhasil, timing kata memakai metadata WordBoundary dari edge-tts.
+- Jika memakai VO manual atau TTS gagal, timing kata dihitung otomatis dari durasi audio/narasi.
+
+2. Input file web dibuat lebih mudah
+- Web UI sekarang memakai tombol upload file langsung.
+- Video sumber dipilih lewat input file, tidak wajib mengetik path.
+- Script bisa dipaste atau upload .txt.
+- BGM bisa upload file audio.
+- Stock footage/gambar bisa pilih banyak file.
+- VO manual bisa pilih banyak file audio.
+- Font .ttf/.otf bisa upload langsung.
+- Path manual tetap ada sebagai opsi cadangan untuk file sangat besar.
+
+3. Output
+- Web UI menampilkan tombol Download video setelah render selesai.
+- Intro dan outro teks tetap default mati.
+- Rasio output tetap auto mengikuti video sumber.

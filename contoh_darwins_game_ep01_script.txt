@@ -1,0 +1,157 @@
+PANDUAN SKRIP VISUAL SPOILER — DARWIN'S GAME BD EPISODE 01
+File sumber dianalisis: [360p][Kusonime] Darwin's Game BD - 01.mp4
+Durasi video: ±47:42
+
+CATATAN PRODUKSI HAK CIPTA:
+Dokumen ini sengaja tidak berisi instruksi untuk mengecoh Content ID atau sistem deteksi otomatis. Formula editing di bawah ditujukan untuk membuat konten rekap/komentar yang transformatif: VO dominan, cuplikan sumber pendek seperlunya, cutaway berlisensi, musik berlisensi/royalty-free, subtitle/narasi buatan sendiri, dan tidak memakai musik/dialog asli secara panjang. Tidak ada jaminan bebas klaim; pastikan hak penggunaan materi sesuai platform dan wilayah hukum.
+
+00:00–01:20
+FORMULA EDITING: Gunakan sebagai hook atmosferik, bukan cuplikan pembuka panjang. Pola non-loop tiap ±4–5 detik: (0–5s: STOCK [kilatan garis cahaya/layar digital gelap] + judul besar) → (5–10s: ZOOM 112% ke peta ponsel + SUBTITLE DINAMIS) → (10–15s: GRADE gelap + film grain) → (15–20s: STOCK [langit biru kosong yang cepat berubah menjadi malam]) → ulangi variasi cutaway grafis sampai akhir blok.
+AUDIO/BGM: MUTE audio asli. BGM berlisensi: dark ambient pulse rendah + ketukan digital halus. SFX bebas lisensi: notifikasi ponsel tipis.
+NARASI: "Dari detik pertama, episode ini sudah berbisik bahwa permainan ini bukan aplikasi biasa. Cahaya kecil di layar seperti titik koordinat kematian: siapa pun yang menyentuhnya akan ditarik keluar dari hidup normal. Inilah pintu Darwin's Game—game yang tidak menunggu pemain siap, karena begitu undangan diterima, tubuh manusia berubah menjadi papan catur."
+
+01:20–03:25
+FORMULA EDITING: Fokus visual pada jalan malam, pantulan toko, napas panik Hamada, dan ponsel di tanah. Pola tiap ±5 detik: (tracking lari: ZOOM 110% + GRADE dingin) → (wajah panik: BORDER tipis + VO overlay) → (peta/ponsel: cut-in grafis buatan sendiri) → (STOCK [gang kota basah/aspal malam] sebagai cutaway) → kembali ke tubuh jatuh hanya sebentar untuk konteks.
+AUDIO/BGM: MUTE scoring asli. BGM: tension drone + heartbeat. Hindari dialog asli; jika perlu, pakai reaksi napas/panik 1–2 detik lalu timpa VO.
+NARASI: "Hamada berlari seperti seseorang yang baru menyadari bahwa kematian bisa memakai wajah tak terlihat. Jangkar visualnya adalah ponsel merah muda yang tergeletak di samping darah—benda kecil yang seharusnya hanya mengirim pesan, kini menjadi surat wasiat. Ia meminta maaf pada Kaname, tapi permintaan maaf itu datang terlambat: Hamada akan mati malam ini, dan undangan yang ia kirim justru menyeret sahabatnya ke lubang yang sama."
+
+03:25–04:35
+FORMULA EDITING: Pola ringkas: (kelas pagi: GRADE hangat kontras rendah) → (obrolan murid: SUBTITLE DINAMIS berupa ringkasan, bukan dialog penuh) → (gambar misterius di jalan: ZOOM 115%) → (wajah Kaname menoleh: freeze singkat 0,5s + teks "undangan pertama").
+AUDIO/BGM: MUTE audio asli. BGM: piano minor tipis; sisipkan SFX sekolah bebas lisensi sangat pelan.
+NARASI: "Pagi berikutnya terlihat terlalu normal, dan justru di situlah rasa ngerinya tumbuh. Di kelas, Kaname Sudo masih duduk sebagai murid biasa, mendengar kabar aneh tentang Hamada seolah itu hanya gosip sekolah. Tapi gambar putih di jalan dan notifikasi di ponselnya menjadi tanda pertama: dunia lama Kaname sudah retak, hanya ia belum sempat melihat lubangnya."
+
+04:35–06:25
+FORMULA EDITING: (0–5s: close-up ponsel + ZOOM 112%) → (5–10s: overlay grafis ular digital buatan sendiri) → (10–15s: wajah Kaname terkejut + GRADE overexposed) → (15–20s: STOCK [layar glitch/serpihan data]) → (20–25s: Shuka di atap + BORDER tipis) → lanjutkan dengan potongan pendek bergantian ponsel–gigitan–langit.
+AUDIO/BGM: MUTE musik asli. BGM: rising synth + drop pendek saat gigitan. Tidak memakai dialog asli.
+NARASI: "Kaname menekan layar itu seperti menekan bel pintu rumah asing. Lalu ular virtual menerjang dari ponsel dan menggigit lehernya—sebuah halusinasi yang ternyata punya racun sungguhan. Di tempat lain, Shuka Karino berdiri di bawah langit terbuka dengan pistol di tangan, seolah ia sudah lama mengenal aturan brutal ini: Darwin's Game tidak memisahkan layar dan tubuh; layar hanya cara game memilih korban."
+
+06:25–08:20
+FORMULA EDITING: (ranjang rumah sakit: GRADE pucat) → (tanda/barcode di leher: ZOOM 115% + pan pelan) → (dokter keluar: SUBTITLE ringkas) → (Kaname dan Kyoda/Hamada disebut dalam VO: gunakan still ponsel sebagai jangkar) → (STOCK [koridor rumah sakit kosong] 1–2s untuk transisi emosi).
+AUDIO/BGM: MUTE audio asli, gunakan room tone bebas lisensi + piano rendah. Dialog asli tidak perlu dipertahankan.
+NARASI: "Di rumah sakit, luka itu menjadi bukti paling kejam: Kaname tidak pingsan karena game, ia ditandai olehnya. Tanda di lehernya seperti barcode kepemilikan, seakan tubuhnya baru saja didaftarkan sebagai aset Darwin's Game. Kyoda mulai menghubungkan semuanya dengan pesan Hamada, dan yang membuat adegan ini pahit adalah kenyataan bahwa Kaname masih mencari penjelasan rasional—padahal game ini sudah memakan korban pertamanya."
+
+08:20–09:45
+FORMULA EDITING: Pola tiap ±5 detik: (kereta: ZOOM 110% + GRADE kebiruan) → (ponsel/konfirmasi match: SUBTITLE DINAMIS "match terkunci") → (maskot panda muncul: cut cepat 1–2 detik) → (wajah Kaname tersenyum ragu lalu beku: ZOOM 115%) → (STOCK [lampu kereta berkedip]).
+AUDIO/BGM: MUTE BGM asli. BGM: percussive suspense. Boleh sisipkan bunyi pintu kereta bebas lisensi.
+NARASI: "Di kereta, Kaname mencoba memperlakukan undangan itu sebagai aplikasi aneh biasa. Lalu nama lawan muncul, dan pria berkostum panda—Banda-kun—berdiri di gerbong seperti lelucon yang dipelintir menjadi pisau. Inilah match pertama Kaname, dan twist-nya langsung telanjang: lawannya bukan avatar, melainkan pemburu pemula yang membunuh pemain baru untuk merampas poin mereka."
+
+09:45–11:10
+FORMULA EDITING: (panda mendekat: GRADE kontras tinggi) → (Kaname panik: ZOOM 112%) → (pisau/ayunan: cut sangat singkat + motion blur kreatif) → (penumpang kacau: SUBTITLE buatan sendiri) → (stasiun terbuka: STOCK [kerumunan terminal/rel malam] bila diperlukan untuk jeda VO).
+AUDIO/BGM: MUTE audio asli. BGM: chase percussion. Dialog asli hanya boleh dipakai sebagai reaksi terpotong 1–2 detik tanpa kutipan panjang, lalu VO masuk.
+NARASI: "Banda-kun mengubah ruang publik menjadi arena eksekusi. Orang-orang melihat kostum konyol; Kaname melihat pisau dan niat membunuh. Jangkar visualnya adalah mata Kaname yang melebar di antara tiang kereta—di sana kesadaran pertamanya lahir: polisi, saksi, dan logika normal tidak akan cukup menyelamatkannya."
+
+11:10–12:35
+FORMULA EDITING: (stasiun: ZOOM 110%) → (orang meminta polisi: teks ringkas, bukan dialog penuh) → (Banda mengejar di eskalator/koridor: GRADE merah) → (Kaname terpojok: BORDER tipis + VO) → (STOCK [lampu darurat berkedip] 1s untuk transisi).
+AUDIO/BGM: MUTE audio asli. BGM: strings staccato bebas lisensi. SFX langkah kaki/pisau gunakan library.
+NARASI: "Kaname berlari keluar, tapi dunia di sekelilingnya seperti sengaja terlambat menolong. Ada orang yang panik, ada yang bingung, namun sistem permainan menutup jalan bantuan sebelum bantuan itu sempat bernapas. Saat Banda-kun muncul lagi, Kaname akhirnya mengerti: ia tidak sedang dikejar kriminal biasa; ia sedang dikunci dalam duel yang hanya akan selesai jika salah satu jatuh."
+
+12:35–14:15
+FORMULA EDITING: (Kyoda masuk menyelamatkan: ZOOM 115%) → (luka dan panah/senjata: cut pendek) → (wajah Kaname lega tapi takut: GRADE hangat-merah) → (ponsel gagal menghubungi bantuan: overlay grafis buatan sendiri) → (mobil/parkiran sebagai transisi: STOCK [parkir kosong malam]).
+AUDIO/BGM: MUTE audio asli. BGM: suspense lebih lambat. Hindari kutipan dialog; VO menjelaskan.
+NARASI: "Kyoda datang seperti jawaban terakhir yang masih dimiliki Kaname. Tapi tubuh Kyoda sendiri sudah membawa luka, dan di situlah spoiler terbesar bagian awal ini berdarah: ia bukan penyelamat yang akan bertahan lama. Ia hanya cukup hidup untuk menjelaskan aturan dan memberi Kaname kesempatan, sebelum Darwin's Game menagih nyawanya juga."
+
+14:15–16:45
+FORMULA EDITING: (parkiran senja/merah: GRADE teal-orange lembut) → (Kaname dan Kyoda di balik mobil: ZOOM 112%) → (Shuka mengamati dari jauh: cut-in 2s + BORDER) → (ponsel/aturan game: grafis teks buatan sendiri) → pola berulang tiap ±5 detik antara wajah, ponsel, parkiran, dan cutaway kota.
+AUDIO/BGM: MUTE scoring asli. BGM: dark piano + low pulse. Untuk efek luka, gunakan SFX library, bukan efek asli panjang.
+NARASI: "Di parkiran, Kyoda memaksa Kaname menerima sesuatu yang terdengar gila: Darwin's Game adalah survival game nyata, dan setiap pemain mendapat kekuatan khusus bernama Sigil. Jangkar visualnya adalah tubuh Kyoda yang makin lemah di bawah cahaya merah parkiran—penjelasan itu bukan tutorial, melainkan pesan terakhir. Saat Shuka mengawasi dari kejauhan, episode ini mulai menunjukkan rantai predatornya: pemula diburu, pemain kuat mengamati, dan manusia diubah menjadi angka poin."
+
+16:45–18:20
+FORMULA EDITING: (Kaname memancing Banda: ZOOM 110% + handheld feel) → (Kyoda menunggu/bersiap: GRADE gelap) → (visual aura/warna tubuh: overlay grafis buatan sendiri untuk menjelaskan Sigil) → (Banda muncul/hilang: cut singkat) → (STOCK [siluet manusia di kabut] 1–2s untuk menjelaskan invisibility tanpa memakai terlalu banyak adegan).
+AUDIO/BGM: MUTE audio asli. BGM: minimal pulse. SFX bebas lisensi untuk hembusan dan langkah.
+NARASI: "Kaname memilih jadi umpan, bukan karena berani, tapi karena tidak ada pilihan lain. Di sisi lain, Kyoda menggunakan Sigil-nya—kemampuan melihat aura makhluk hidup—untuk melacak Banda yang bisa menghilang. Dulu Kaname mungkin akan menyebut semua ini mustahil; malam ini, mustahil justru menjadi satu-satunya bahasa yang membuatnya tetap hidup."
+
+18:20–20:30
+FORMULA EDITING: (aura Banda: GRADE panas/dingin) → (Banda menyerang: cut 2–3 detik) → (Kaname jatuh/terpojok: ZOOM 115%) → (Kyoda terluka: gunakan seperlunya, jangan eksploitasi gore) → (STOCK [retakan kaca/napas dingin] untuk emosi internal). Pola cut maksimal ±5 detik per cuplikan sumber.
+AUDIO/BGM: MUTE BGM asli. BGM: action trailer low-intensity. Dialog asli tidak dipakai.
+NARASI: "Banda-kun bukan sekadar pembunuh berkostum; ia adalah pemain veteran yang tahu cara memanfaatkan rasa takut pemula. Dengan invisibility-nya, ia membuat parkiran terasa seperti ruangan tanpa dinding—serangan bisa datang dari mana saja. Kyoda berusaha menahan garis depan, tetapi darahnya makin banyak tertinggal, dan setiap detik memperjelas bahwa Kaname sedang menyaksikan sahabatnya menuju kematian."
+
+20:30–22:50
+FORMULA EDITING: (Kaname menyusun akal: ZOOM 112% ke mata/tangan) → (lampu mobil/arah kendaraan: cut-in) → (tubuh Banda terpental/tertabrak: gunakan sangat singkat untuk konteks) → (layar hasil game: SUBTITLE ringkas) → (wajah Kaname kosong: GRADE desaturasi). Sisipkan STOCK [lampu kota senja] sebelum layar kemenangan agar narasi punya napas.
+AUDIO/BGM: MUTE audio asli. BGM: action berhenti mendadak lalu piano dingin. SFX tabrakan gunakan library atau reenactment audio.
+NARASI: "Kaname menang bukan karena sudah menjadi monster, melainkan karena ia masih manusia yang bisa berpikir saat terpojok. Banda-kun kalah setelah tubuhnya diseruduk mobil ketika wujud tak terlihatnya justru membuat orang lain tak sadar ada manusia di depan mereka. Layar menyatakan Kaname menang, tapi kemenangan pertama ini terasa seperti kutukan: ia mendapat poin, sementara Kyoda kehilangan darah, waktu, dan akhirnya hidupnya."
+
+22:50–24:20
+FORMULA EDITING: (Shuka di tepi sungai/kota malam: GRADE biru) → (notifikasi kemenangan Kaname: overlay grafis buatan sendiri) → (Kaname pulang ke kamar: ZOOM 110%) → (ponsel dan wajah lelah: BORDER tipis) → (STOCK [kamar gelap dengan cahaya ponsel] bila perlu untuk menambal narasi). Cuplikan sumber tetap pendek dan berfungsi sebagai bukti visual komentar.
+AUDIO/BGM: MUTE audio asli. BGM: sad piano + ambience kamar.
+NARASI: "Setelah Banda-kun tumbang, Shuka membaca hasilnya dari jauh: Kaname, si pemula, baru saja mengalahkan rookie hunter. Tetapi di kamar, tidak ada euforia. Aplikasi justru memberi tahu bahwa Kyoda sudah mati, menyusul Hamada, dan kalimat itu menghancurkan sisa ilusi Kaname bahwa ini hanya game. Dua temannya hilang dalam satu episode, dan dari titik inilah tujuan Kaname lahir: menemukan dalang Darwin's Game dan menghentikan sistem pembunuhan ini."
+
+24:20–26:50
+FORMULA EDITING: (ruangan berdarah/yakuza: gunakan hemat, GRADE desaturasi) → (Wang tersenyum: ZOOM 115% + teks "Eighth") → (anggota klan tunduk: cut pendek) → (grafis peta Shibuya buatan sendiri) → (STOCK [neon Shibuya malam] untuk transisi). Hindari menahan adegan gore lama-lama.
+AUDIO/BGM: MUTE audio asli. BGM: villain drone + bass rendah. SFX darah/serangan gunakan library atau hilangkan.
+NARASI: "Lalu episode membuka pintu ke predator yang lebih besar: Wang dan klan Eighth. Ruangan yang penuh darah memperlihatkan bahwa Darwin's Game tidak cuma menciptakan duel acak; ia melahirkan kerajaan kecil dari orang-orang yang menikmati kekuasaan. Wang menghabisi kelompok yakuza dan menyatakan Shibuya sebagai milik Eighth—ini bukan sekadar selingan, ini spoiler masa depan: Kaname kelak harus berhadapan dengan pemain-pemain yang jauh lebih kejam daripada Banda-kun."
+
+26:50–28:10
+FORMULA EDITING: (Shuka menerima/mengirim pesan: ZOOM 110%) → (Kaname tiba di tempat sepi: GRADE biru malam) → (senter/gerbang/stasiun: cut pendek) → (STOCK [lorong kosong malam] 1–2s). Pola visual jangan lebih dari ±5 detik per cuplikan sumber sebelum pindah fokus.
+AUDIO/BGM: MUTE audio asli. BGM: mystery ambient. Tambahkan SFX ponsel berlisensi.
+NARASI: "Shuka menghubungi Kaname, dan ia datang meski seluruh tubuhnya sudah belajar bahwa undangan dalam game berarti bahaya. Tempat pertemuan di area Kishima tampak kosong, dingin, dan terlalu luas untuk seorang pemula yang baru kehilangan dua teman. Namun Kaname datang karena ia butuh jawaban, dan jawaban itu akan berdiri di hadapannya dengan gaun merah dan rantai mematikan."
+
+28:10–30:00
+FORMULA EDITING: (Shuka di atas struktur: ZOOM 115% + GRADE dingin) → (Kaname menengadah: BORDER tipis) → (rantai Shuka bergerak: cut sangat pendek) → (SUBTITLE DINAMIS: "Shuka Karino — pemain elite") → (STOCK [bulan/langit malam] untuk menambah jarak emosional).
+AUDIO/BGM: MUTE audio asli. BGM: elegant dark strings. Jangan pakai dialog asli kecuali reaksi 1 detik.
+NARASI: "Shuka Karino muncul seperti boneka cantik yang dibangun dari bahaya. Ia bukan gadis yang kebetulan membawa senjata; ia adalah pemain elite, sosok yang nanti dikenal sebagai Ratu Tak Terkalahkan, pemilik Sigil yang mengendalikan rantai dan kabel seperti anggota tubuhnya sendiri. Kaname datang untuk mencari sekutu, tapi Shuka datang untuk menguji apakah pemula ini ancaman, mangsa, atau sesuatu yang lebih langka."
+
+30:00–31:45
+FORMULA EDITING: (percakapan jarak jauh: shot–reverse shot dipotong tiap ±4–5 detik) → (ponsel profil Kaname: ZOOM 112% + overlay teks "Sigil belum terbaca") → (wajah Shuka curiga: GRADE biru-merah) → (STOCK [data error/glitch] 1s).
+AUDIO/BGM: MUTE audio asli. BGM: suspense minimal. Dialog asli diganti VO/parafrasa.
+NARASI: "Shuka menuntut satu hal: tunjukkan Sigil-mu. Tapi profil Kaname menampilkan keganjilan—kemampuannya belum teranalisis, seolah game pun belum selesai membaca dirinya. Twist kecil ini penting, karena Kaname bukan sekadar pemula kosong; ia adalah anomali yang bahkan sistem perlu waktu untuk mengerti."
+
+31:45–33:20
+FORMULA EDITING: (Kaname memegang alat/senter: ZOOM 110%) → (etalase alat pertahanan sebagai insert: gunakan grafis ilustratif atau stock legal) → (Shuka memutuskan menyerang: GRADE kontras tinggi) → (Kaname lari: motion cut pendek) → (STOCK [lampu gudang berkedip]).
+AUDIO/BGM: MUTE audio asli. BGM: rhythm chase. SFX langkah dan napas dari library.
+NARASI: "Karena Shuka tidak bisa mempercayai pemain tanpa Sigil yang jelas, percakapan berubah menjadi perburuan. Kaname hanya membawa alat pertahanan yang ia beli dengan panik, sementara Shuka membawa pengalaman, rantai, dan ketenangan seorang predator. Di sini perbedaannya telanjang: Kaname ingin bertahan hidup; Shuka ingin memastikan apakah ia layak dibiarkan hidup."
+
+33:20–35:10
+FORMULA EDITING: (flash/senter menyilaukan: GRADE overexposed) → (Kaname bersembunyi: ZOOM 112%) → (rantai menghantam dinding: cut pendek) → (wajah Shuka dengan mata merah: BORDER + SUBTITLE DINAMIS) → (STOCK [debu di cahaya lampu] sebagai jeda). Tiap cuplikan sumber jangan dibiarkan lama tanpa komentar.
+AUDIO/BGM: MUTE audio asli. BGM: action synth pelan. Gunakan SFX rantai bebas lisensi.
+NARASI: "Kaname membutakan Shuka sesaat dan berlari, tetapi gudang itu bukan tempat berlindung; ia adalah kandang. Rantai Shuka menampar dinding dan pipa dengan presisi, menutup jalur kabur seperti laba-laba yang tahu setiap sudut jaringnya. Jangkar visualnya adalah mata merah Shuka—cantik, tenang, dan sama sekali tidak ragu membunuh bila game memintanya."
+
+35:10–37:10
+FORMULA EDITING: (Kaname di koridor: ZOOM 110% + GRADE biru gelap) → (rantai mengejar: cut 2–3 detik) → (Kaname berpikir tentang senjata: overlay sketsa pistol buatan sendiri) → (Shuka melayang/menyerang: cut pendek) → (STOCK [tangan menggenggam pistol replika/alat di meja] jika tersedia berlisensi untuk metafora).
+AUDIO/BGM: MUTE audio asli. BGM: ticking tension. Jangan memakai dialog asli.
+NARASI: "Dalam kejaran itu, Kaname mulai menyadari pola yang aneh di tubuhnya sendiri. Ia memikirkan senjata, dan pikirannya terasa seperti menyentuh benda nyata. Dulu sebelum game menggigitnya, ketakutan hanya membuat orang gemetar; sekarang ketakutan Kaname membuka pintu ke Sigil yang tersembunyi—kemampuan yang akan membuatnya bukan lagi sekadar korban."
+
+37:10–39:00
+FORMULA EDITING: (Kaname mengamati rantai: ZOOM 115% ke mata) → (pistol/alat di tangan: cut pendek) → (jebakan di pintu/dinding: grafis panah buatan sendiri) → (Shuka mendekat: GRADE dingin) → (STOCK [bidak catur jatuh] 1s untuk metafora strategi).
+AUDIO/BGM: MUTE audio asli. BGM: strategic suspense, lebih senyap. SFX mekanik bebas lisensi.
+NARASI: "Kaname tidak menang dengan kekuatan kasar; ia mulai menang dengan membaca celah. Ia memperhatikan jangkauan rantai, cara Shuka menutup rute, dan ruang kecil yang masih bisa dipakai untuk memaksa lawan berhenti. Adegan ini menggeser Kaname dari anak sekolah yang kabur menjadi pemain yang berpikir—dan itulah alasan Shuka nanti tidak membuangnya sebagai pemula biasa."
+
+39:00–40:35
+FORMULA EDITING: (wajah Kaname dalam bayangan: ZOOM 112%) → (tangan bersinar/efek Sigil: GRADE biru putih) → (pistol termaterialisasi: gunakan potongan singkat + overlay penjelasan "mewujudkan benda yang dipahami") → (Shuka terkejut: cut 2 detik) → (STOCK [percikan cahaya/partikel digital] untuk menjelaskan transformasi).
+AUDIO/BGM: MUTE audio asli. BGM: rising cinematic pad. Tambah SFX energi bebas lisensi, bukan audio sumber.
+NARASI: "Di sinilah rahasia Kaname terbuka: Sigil-nya bukan ilusi dan bukan keberuntungan. Ia mampu memunculkan atau mereplikasi benda yang ia pahami dengan cukup jelas—malam ini, pistol menjadi bentuk pertama dari kemampuan itu. Bagi Shuka, momen ini mengubah Kaname dari mangsa menjadi anomali berbahaya; bagi Kaname, ini adalah bukti bahwa game telah mengubah tubuh dan nalurinya selamanya."
+
+40:35–42:15
+FORMULA EDITING: (Kaname menodong pistol: GRADE kontras tinggi) → (Shuka terikat/terpojok: ZOOM 115%) → (rantai dan tubuh jatuh: cut konteks singkat) → (layar hasil/akhir duel: SUBTITLE DINAMIS "Kaname menang") → (wajah Kaname lelah: desaturasi). Hindari menampilkan kekerasan berulang; VO yang membawa klimaks.
+AUDIO/BGM: MUTE audio asli. BGM: klimaks pendek lalu drop ke keheningan. SFX tembakan/impact gunakan library atau hilangkan.
+NARASI: "Kaname membalik duel yang seharusnya mustahil ia menangkan. Ia menodong Shuka, memaksanya melepas kontrol, dan menang bukan dengan membunuhnya, melainkan dengan bertahan cukup lama sampai sistem mengakui hasil. Spoilernya terang: Shuka tidak mati di sini. Kekalahan ini justru menjadi awal hubungan mereka—dari pemburu dan mangsa menjadi dua pemain yang akan saling membutuhkan."
+
+42:15–43:25
+FORMULA EDITING: (ruang gelap dengan pengamat/game system: GRADE biru neon) → (monitor Kaname/Shuka: ZOOM 110%) → (Shuka tak sadar/Kaname di sampingnya: BORDER) → (grafis teks "potensi A" dibuat ulang) → (STOCK [ruang server gelap] untuk menjelaskan pengawasan).
+AUDIO/BGM: MUTE audio asli. BGM: cold sci-fi ambient. Dialog asli tidak dipakai.
+NARASI: "Di balik layar, ada pihak yang mengamati duel ini seperti eksperimen. Potensi Kaname dinilai tinggi, karena Sigil-nya bukan serangan sederhana, melainkan kemampuan kreatif yang bisa berkembang liar. Ini menegaskan rahasia paling dingin Darwin's Game: para pemain tidak cuma bertarung, mereka diteliti, diperingkat, dan diperdagangkan sebagai informasi."
+
+43:25–44:40
+FORMULA EDITING: (kamar Shuka: GRADE lembut, jangan seksualisasi berlebihan) → (Kaname bangun terkejut: ZOOM 112%) → (Shuka mendekat dengan ekspresi lega: cut pendek) → (ponsel di lantai: insert simbolik) → (STOCK [tirai kamar bergerak pelan] untuk menutup adegan).
+AUDIO/BGM: MUTE audio asli. BGM: soft mysterious piano. Jangan memakai dialog intim asli; VO cukup menjelaskan konteks.
+NARASI: "Setelah duel maut itu, Kaname terbangun di kamar Shuka, dan warna adegan berubah dari biru pembunuhan menjadi merah muda yang canggung. Shuka tidak membunuhnya; justru ia lega Kaname sadar, seakan kekalahan membuatnya menemukan sesuatu yang sudah lama ia cari. Episode menutup hubungan mereka dengan paradoks: gadis yang tadi hampir membunuhnya kini menjadi pintu pertama Kaname menuju pemahaman lebih dalam tentang game."
+
+44:40–46:00
+FORMULA EDITING: Untuk ending montage, jangan pakai potongan kredit panjang. Gunakan maksimal cuplikan pendek sebagai penutup analisis: (pomegranate/visual simbolik: ZOOM 110%) → (wajah Shuka: GRADE hangat) → (Kaname dan teman/karakter lain: cut singkat) → (STOCK [jalan pulang malam/kota kosong]) → (teks rangkuman spoiler). Lebih aman pakai grafis buatan sendiri daripada kredit utuh.
+AUDIO/BGM: Jangan gunakan lagu ending asli. Ganti BGM berlisensi: melancholic pop instrumental atau piano cinematic. Jika ada lirik asli, MUTE total.
+NARASI: "Montage ending terasa seperti napas setelah tenggelam, tetapi gambarnya tidak benar-benar menenangkan. Buah merah, tatapan Shuka, dan bayangan karakter-karakter yang belum Kaname pahami semuanya menyampaikan satu hal: jalan pulang sudah hilang. Kaname masih hidup, namun hidupnya sekarang berada di dalam ekosistem predator, tempat pertemanan bisa menjadi undangan kematian dan cinta bisa dimulai dari duel berdarah."
+
+46:00–47:42
+FORMULA EDITING: Jangan menayangkan credit roll panjang. Pakai layar gelap buatan sendiri + 2–3 still ilustratif/stock berlisensi: [ponsel menyala], [jalan kota malam], [rantai di lantai], [peta digital]. Tambahkan SUBTITLE DINAMIS rangkuman akhir. Bila perlu tampilkan cuplikan sumber kurang dari beberapa detik sebagai referensi visual, selalu dengan VO kritik/rekap di atasnya.
+AUDIO/BGM: MUTE lagu/credit audio asli. BGM: outro ambient berlisensi, turunkan volume 40% di akhir.
+NARASI: "Status akhirnya jelas: Hamada mati, Kyoda mati, Banda-kun kalah, Shuka hidup, dan Kaname resmi menjadi pemain Darwin's Game. Twist episode pertama bukan hanya bahwa game itu nyata, melainkan bahwa Kaname punya Sigil langka yang membuatnya berbahaya bahkan sebelum ia tahu cara menggunakannya. Ke depan, musuhnya tidak lagi satu maskot pemburu pemula, melainkan klan-klan, penguasa Shibuya, dan Game Master yang memperlakukan tragedi manusia sebagai statistik."
+
+RANGKUMAN SPOILER UTAMA UNTUK THUMBNAIL/HOOK:
+- Hamada meninggal lebih dulu setelah mengirim undangan Darwin's Game.
+- Kaname digigit ular digital yang meninggalkan luka nyata, tanda ia sudah masuk game.
+- Banda-kun adalah rookie hunter dengan kemampuan menghilang; ia kalah setelah kecelakaan mobil di parkiran.
+- Kyoda datang menolong Kaname, menjelaskan aturan game dan Sigil, lalu meninggal karena luka parah.
+- Wang dan klan Eighth diperkenalkan sebagai ancaman besar di Shibuya.
+- Shuka menantang Kaname untuk membaca Sigil-nya, tetapi Kaname ternyata anomali.
+- Sigil Kaname memungkinkannya mewujudkan/mereplikasi benda yang ia pahami, pertama kali terlihat melalui pistol.
+- Shuka kalah tetapi tidak mati; kekalahan itu menjadi awal relasi/aliansi dengan Kaname.
+- Akhir episode: Kaname bertahan hidup, tetapi hidup normalnya sudah selesai.

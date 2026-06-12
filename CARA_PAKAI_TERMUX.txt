@@ -1,0 +1,20 @@
+CARA PAKAI PALING CEPAT
+=======================
+
+1. Ekstrak ZIP ke /sdcard.
+2. Buka Termux.
+3. Jalankan:
+
+   cd /sdcard/editvideo_auto_text_final
+   bash mulai_web.sh
+
+4. Buka URL yang muncul, biasanya http://127.0.0.1:7860/
+5. Paste teks arahan, pilih/isi path video, lalu tekan Render Otomatis Sampai Final. Resolusi default AUTO mengikuti rasio video asli, dan intro/outro teks sudah dimatikan.
+
+Untuk install alat saja tanpa membuka web:
+
+   bash install_saja.sh
+
+Untuk CLI langsung:
+
+   python auto_edit_from_text.py --script /sdcard/Download/script.txt --source /sdcard/Movies/video.mp4 --out /sdcard/Movies/final.mp4
